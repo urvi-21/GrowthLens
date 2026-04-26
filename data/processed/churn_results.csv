@@ -1,0 +1,1408 @@
+probability,prediction,actual,risk_segment,action,group_name,converted
+0.05891975526590902,0,0,Low Risk,No Action,control,0
+0.7008038026479898,1,0,High Risk,Give Discount,control,0
+0.026146954980456626,0,0,Low Risk,No Action,control,0
+0.18336464748649714,0,1,Low Risk,No Action,control,0
+0.1837806137957013,0,0,Low Risk,No Action,control,0
+0.49944902659416507,1,1,Medium Risk,Send Engagement Email,control,0
+0.049264018285734526,0,0,Low Risk,No Action,control,0
+0.15478778767783208,0,0,Low Risk,No Action,control,0
+0.6872017131104715,1,1,Medium Risk,Send Engagement Email,control,0
+0.04908690665889515,0,0,Low Risk,No Action,control,0
+0.7157376564234241,1,0,High Risk,Give Discount,treatment,0
+0.15176253139559995,0,0,Low Risk,No Action,control,0
+0.6755345774252302,1,0,Medium Risk,Send Engagement Email,control,0
+0.174804655282928,0,0,Low Risk,No Action,control,0
+0.20610538138598114,0,1,Low Risk,No Action,control,0
+0.7893630009203011,1,1,High Risk,Give Discount,treatment,0
+0.7242561585129323,1,1,High Risk,Give Discount,control,0
+0.5616724374361369,1,1,Medium Risk,Send Engagement Email,control,0
+0.29652040917747075,0,0,Low Risk,No Action,control,0
+0.025531778962392927,0,0,Low Risk,No Action,control,0
+0.02426287216582233,0,0,Low Risk,No Action,control,0
+0.5169706500901018,1,0,Medium Risk,Send Engagement Email,control,0
+0.6347713729574441,1,0,Medium Risk,Send Engagement Email,control,0
+0.2598451522898163,0,1,Low Risk,No Action,control,0
+0.20100173832056087,0,0,Low Risk,No Action,control,0
+0.4670399292060015,1,1,Medium Risk,Send Engagement Email,control,0
+0.1674628425680963,0,0,Low Risk,No Action,control,0
+0.06389518287784947,0,0,Low Risk,No Action,control,0
+0.11490736765719586,0,0,Low Risk,No Action,control,0
+0.40570921724180337,1,1,Medium Risk,Send Engagement Email,control,0
+0.1536590958261255,0,0,Low Risk,No Action,control,0
+0.8084740860175453,1,1,High Risk,Give Discount,control,1
+0.47672237505171133,1,0,Medium Risk,Send Engagement Email,control,0
+0.06391096034092096,0,0,Low Risk,No Action,control,0
+0.7762926922765485,1,1,High Risk,Give Discount,treatment,0
+0.7245037374824702,1,0,High Risk,Give Discount,treatment,0
+0.20721502929799118,0,0,Low Risk,No Action,control,0
+0.04718343758773674,0,0,Low Risk,No Action,control,0
+0.35027261820800537,0,1,Low Risk,No Action,control,0
+0.30489238485161513,0,0,Low Risk,No Action,control,0
+0.1296458479083297,0,0,Low Risk,No Action,control,0
+0.0332827551945636,0,0,Low Risk,No Action,control,0
+0.14268703113733194,0,0,Low Risk,No Action,control,0
+0.18168857249477194,0,0,Low Risk,No Action,control,0
+0.026327210282456093,0,0,Low Risk,No Action,control,0
+0.2593878660093811,0,0,Low Risk,No Action,control,0
+0.12163816176142807,0,0,Low Risk,No Action,control,0
+0.18877139978079668,0,0,Low Risk,No Action,control,0
+0.04431109537905028,0,0,Low Risk,No Action,control,0
+0.17858461194494793,0,0,Low Risk,No Action,control,0
+0.5930682721857148,1,0,Medium Risk,Send Engagement Email,control,0
+0.04282071143461429,0,0,Low Risk,No Action,control,0
+0.4226082190280676,1,0,Medium Risk,Send Engagement Email,control,0
+0.7016706990205658,1,1,High Risk,Give Discount,control,0
+0.10619030055805143,0,0,Low Risk,No Action,control,0
+0.11447483819120448,0,0,Low Risk,No Action,control,0
+0.5815760989658669,1,0,Medium Risk,Send Engagement Email,control,0
+0.6150341658524259,1,0,Medium Risk,Send Engagement Email,control,0
+0.026310474215917253,0,0,Low Risk,No Action,control,0
+0.7402783379865167,1,1,High Risk,Give Discount,treatment,1
+0.1175169204955832,0,0,Low Risk,No Action,control,0
+0.20976746512333355,0,0,Low Risk,No Action,control,0
+0.6192151008489729,1,0,Medium Risk,Send Engagement Email,control,0
+0.09495263328929666,0,0,Low Risk,No Action,control,0
+0.024293637435016658,0,0,Low Risk,No Action,control,0
+0.24526562742146918,0,0,Low Risk,No Action,control,0
+0.05181007354549184,0,0,Low Risk,No Action,control,0
+0.08887420549092444,0,0,Low Risk,No Action,control,0
+0.015602130033666341,0,0,Low Risk,No Action,control,0
+0.21170270823714069,0,0,Low Risk,No Action,control,0
+0.015696279956313106,0,0,Low Risk,No Action,control,0
+0.7902652654355704,1,1,High Risk,Give Discount,treatment,1
+0.05704717142469427,0,0,Low Risk,No Action,control,0
+0.41989558334502536,1,1,Medium Risk,Send Engagement Email,control,0
+0.020643996328772875,0,0,Low Risk,No Action,control,0
+0.5881681800246091,1,1,Medium Risk,Send Engagement Email,control,0
+0.5404818498274576,1,0,Medium Risk,Send Engagement Email,control,0
+0.13652466796113533,0,0,Low Risk,No Action,control,0
+0.04654495830529458,0,0,Low Risk,No Action,control,0
+0.2688985025500233,0,0,Low Risk,No Action,control,0
+0.03261352383947382,0,0,Low Risk,No Action,control,0
+0.06444073073963041,0,0,Low Risk,No Action,control,0
+0.0809970395954384,0,0,Low Risk,No Action,control,0
+0.6238001312188173,1,1,Medium Risk,Send Engagement Email,control,0
+0.14034474197715227,0,0,Low Risk,No Action,control,0
+0.02003343773453273,0,0,Low Risk,No Action,control,0
+0.40922452398336223,1,0,Medium Risk,Send Engagement Email,control,0
+0.2613416135820213,0,1,Low Risk,No Action,control,0
+0.8103249581277796,1,0,High Risk,Give Discount,treatment,1
+0.4555020934797875,1,0,Medium Risk,Send Engagement Email,control,0
+0.16564475129333103,0,0,Low Risk,No Action,control,0
+0.7014864452264024,1,1,High Risk,Give Discount,control,1
+0.04184581324535596,0,0,Low Risk,No Action,control,0
+0.4297045709674738,1,0,Medium Risk,Send Engagement Email,control,0
+0.06281339769090179,0,0,Low Risk,No Action,control,0
+0.14908979956438967,0,0,Low Risk,No Action,control,0
+0.04190794821665709,0,0,Low Risk,No Action,control,0
+0.4934924318805948,1,0,Medium Risk,Send Engagement Email,control,0
+0.47823129814557197,1,0,Medium Risk,Send Engagement Email,control,0
+0.12320324180797608,0,0,Low Risk,No Action,control,0
+0.5180629107516403,1,0,Medium Risk,Send Engagement Email,control,0
+0.493580332213158,1,0,Medium Risk,Send Engagement Email,control,0
+0.2803537336917255,0,0,Low Risk,No Action,control,0
+0.32682678856559305,0,0,Low Risk,No Action,control,0
+0.1304943357803888,0,1,Low Risk,No Action,control,0
+0.5904689632029035,1,0,Medium Risk,Send Engagement Email,control,0
+0.5486170619821817,1,1,Medium Risk,Send Engagement Email,control,0
+0.7599515018255435,1,0,High Risk,Give Discount,treatment,0
+0.7025775211899031,1,0,High Risk,Give Discount,control,0
+0.5493126604930377,1,1,Medium Risk,Send Engagement Email,control,0
+0.49587430807469757,1,0,Medium Risk,Send Engagement Email,control,0
+0.4895686038045241,1,0,Medium Risk,Send Engagement Email,control,0
+0.023101949011698063,0,0,Low Risk,No Action,control,0
+0.08667515223709092,0,0,Low Risk,No Action,control,0
+0.11724434325202404,0,0,Low Risk,No Action,control,0
+0.8146696173560728,1,1,High Risk,Give Discount,treatment,1
+0.4837763921323998,1,0,Medium Risk,Send Engagement Email,control,0
+0.021935881284288583,0,0,Low Risk,No Action,control,0
+0.0579375335219065,0,0,Low Risk,No Action,control,0
+0.49908703454892267,1,1,Medium Risk,Send Engagement Email,control,0
+0.08104635458968155,0,0,Low Risk,No Action,control,0
+0.050424872037971386,0,0,Low Risk,No Action,control,0
+0.1545044743859772,0,0,Low Risk,No Action,control,0
+0.23422371284470747,0,1,Low Risk,No Action,control,0
+0.5158019273994853,1,1,Medium Risk,Send Engagement Email,control,0
+0.4073702365204268,1,0,Medium Risk,Send Engagement Email,control,0
+0.7740294995493316,1,1,High Risk,Give Discount,control,1
+0.044867906642120405,0,0,Low Risk,No Action,control,0
+0.04502014105134531,0,0,Low Risk,No Action,control,0
+0.15252410998951046,0,0,Low Risk,No Action,control,0
+0.025477877048221846,0,0,Low Risk,No Action,control,0
+0.7007764099950763,1,1,High Risk,Give Discount,control,0
+0.041200832801330384,0,0,Low Risk,No Action,control,0
+0.6510297488203934,1,1,Medium Risk,Send Engagement Email,control,0
+0.04381722848691812,0,0,Low Risk,No Action,control,0
+0.07628143346312449,0,0,Low Risk,No Action,control,0
+0.8138062314496057,1,1,High Risk,Give Discount,treatment,0
+0.7503449401663767,1,0,High Risk,Give Discount,treatment,0
+0.3688600644762127,0,0,Low Risk,No Action,control,0
+0.1366248871631484,0,0,Low Risk,No Action,control,0
+0.020989554101176637,0,0,Low Risk,No Action,control,0
+0.15389277517040512,0,0,Low Risk,No Action,control,0
+0.3231175357600161,0,0,Low Risk,No Action,control,0
+0.06602384565563017,0,0,Low Risk,No Action,control,0
+0.3194207261292811,0,1,Low Risk,No Action,control,0
+0.5834766877368,1,0,Medium Risk,Send Engagement Email,control,0
+0.08458182442902377,0,0,Low Risk,No Action,control,0
+0.7200174604375421,1,0,High Risk,Give Discount,treatment,0
+0.026074852280411103,0,0,Low Risk,No Action,control,0
+0.1955988533182084,0,0,Low Risk,No Action,control,0
+0.05732796860784125,0,0,Low Risk,No Action,control,0
+0.41766882983804254,1,1,Medium Risk,Send Engagement Email,control,0
+0.4050709342557244,1,0,Medium Risk,Send Engagement Email,control,0
+0.09366337687642903,0,0,Low Risk,No Action,control,0
+0.6251952236364463,1,1,Medium Risk,Send Engagement Email,control,0
+0.16043193259350289,0,0,Low Risk,No Action,control,0
+0.6066020066875526,1,1,Medium Risk,Send Engagement Email,control,0
+0.047102257775052385,0,0,Low Risk,No Action,control,0
+0.03645097801237465,0,0,Low Risk,No Action,control,0
+0.09592253774381398,0,0,Low Risk,No Action,control,0
+0.4772440716949446,1,0,Medium Risk,Send Engagement Email,control,0
+0.050528750704766444,0,0,Low Risk,No Action,control,0
+0.11362506621204801,0,0,Low Risk,No Action,control,0
+0.2638488193282583,0,1,Low Risk,No Action,control,0
+0.16741624740460911,0,0,Low Risk,No Action,control,0
+0.3079403572006259,0,0,Low Risk,No Action,control,0
+0.29690648877981696,0,0,Low Risk,No Action,control,0
+0.02150233554301864,0,0,Low Risk,No Action,control,0
+0.17956980385122312,0,0,Low Risk,No Action,control,0
+0.133476984992771,0,0,Low Risk,No Action,control,0
+0.2550196138265833,0,0,Low Risk,No Action,control,0
+0.10228511467594133,0,0,Low Risk,No Action,control,0
+0.6416322511921787,1,0,Medium Risk,Send Engagement Email,control,0
+0.17817992396816043,0,0,Low Risk,No Action,control,0
+0.49567426202185944,1,0,Medium Risk,Send Engagement Email,control,0
+0.7033456819771878,1,1,High Risk,Give Discount,control,0
+0.1862534958310884,0,0,Low Risk,No Action,control,0
+0.7349274140738441,1,1,High Risk,Give Discount,treatment,0
+0.07982491540354526,0,0,Low Risk,No Action,control,0
+0.04657293690896636,0,0,Low Risk,No Action,control,0
+0.03776246508269894,0,0,Low Risk,No Action,control,0
+0.45149579220424146,1,1,Medium Risk,Send Engagement Email,control,0
+0.4049916735755144,1,1,Medium Risk,Send Engagement Email,control,0
+0.5516281255277624,1,1,Medium Risk,Send Engagement Email,control,0
+0.01743911250912108,0,0,Low Risk,No Action,control,0
+0.8020926868733638,1,1,High Risk,Give Discount,control,0
+0.8128183276071329,1,1,High Risk,Give Discount,treatment,0
+0.028825232907185926,0,0,Low Risk,No Action,control,0
+0.14577042922642894,0,0,Low Risk,No Action,control,0
+0.49838213559329136,1,0,Medium Risk,Send Engagement Email,control,0
+0.16137939548209945,0,0,Low Risk,No Action,control,0
+0.05398653208581024,0,0,Low Risk,No Action,control,0
+0.04499703819327409,0,0,Low Risk,No Action,control,0
+0.682948697968283,1,0,Medium Risk,Send Engagement Email,control,0
+0.7424324535018768,1,1,High Risk,Give Discount,control,0
+0.5004102695846315,1,0,Medium Risk,Send Engagement Email,control,0
+0.20459179288654786,0,0,Low Risk,No Action,control,0
+0.10162284761206324,0,0,Low Risk,No Action,control,0
+0.042922039786514016,0,0,Low Risk,No Action,control,0
+0.6683222795416576,1,1,Medium Risk,Send Engagement Email,control,0
+0.034723267213761705,0,0,Low Risk,No Action,control,0
+0.34414693707312577,0,0,Low Risk,No Action,control,0
+0.11744458010826442,0,0,Low Risk,No Action,control,0
+0.23837833844530446,0,0,Low Risk,No Action,control,0
+0.47533615148370084,1,0,Medium Risk,Send Engagement Email,control,0
+0.7421867091774965,1,0,High Risk,Give Discount,control,0
+0.40811302706451186,1,0,Medium Risk,Send Engagement Email,control,0
+0.5219568418730081,1,1,Medium Risk,Send Engagement Email,control,0
+0.5056681169023449,1,1,Medium Risk,Send Engagement Email,control,0
+0.2710482354560193,0,0,Low Risk,No Action,control,0
+0.5932422416921944,1,1,Medium Risk,Send Engagement Email,control,0
+0.7961143787129771,1,0,High Risk,Give Discount,control,0
+0.4005614478683562,1,1,Medium Risk,Send Engagement Email,control,0
+0.5095919523216371,1,0,Medium Risk,Send Engagement Email,control,0
+0.6918354140463846,1,1,Medium Risk,Send Engagement Email,control,0
+0.3272872067752776,0,0,Low Risk,No Action,control,0
+0.14092397316547306,0,0,Low Risk,No Action,control,0
+0.33673156356202516,0,0,Low Risk,No Action,control,0
+0.47154476465872364,1,1,Medium Risk,Send Engagement Email,control,0
+0.13308473190053405,0,0,Low Risk,No Action,control,0
+0.3258228110791144,0,0,Low Risk,No Action,control,0
+0.6873909259989249,1,1,Medium Risk,Send Engagement Email,control,0
+0.7760785097653874,1,1,High Risk,Give Discount,treatment,0
+0.2620839608492745,0,0,Low Risk,No Action,control,0
+0.11747266551129873,0,0,Low Risk,No Action,control,0
+0.40638518875052276,1,0,Medium Risk,Send Engagement Email,control,0
+0.4658918790598196,1,0,Medium Risk,Send Engagement Email,control,0
+0.40738783565588055,1,1,Medium Risk,Send Engagement Email,control,0
+0.3489327766974706,0,0,Low Risk,No Action,control,0
+0.38848463945564843,0,0,Low Risk,No Action,control,0
+0.36237480314992915,0,1,Low Risk,No Action,control,0
+0.11311724655939807,0,0,Low Risk,No Action,control,0
+0.08946410974005635,0,0,Low Risk,No Action,control,0
+0.6677269192241605,1,0,Medium Risk,Send Engagement Email,control,0
+0.4635995263962578,1,0,Medium Risk,Send Engagement Email,control,0
+0.04940228318482351,0,0,Low Risk,No Action,control,0
+0.04752173176097928,0,0,Low Risk,No Action,control,0
+0.05968394007217624,0,0,Low Risk,No Action,control,0
+0.06897785643481374,0,0,Low Risk,No Action,control,0
+0.026924026791917934,0,0,Low Risk,No Action,control,0
+0.13344738080753168,0,0,Low Risk,No Action,control,0
+0.20109955645208208,0,1,Low Risk,No Action,control,0
+0.29255949059014674,0,0,Low Risk,No Action,control,0
+0.38489574127480447,0,1,Low Risk,No Action,control,0
+0.06023524690188178,0,0,Low Risk,No Action,control,0
+0.06832007614258209,0,0,Low Risk,No Action,control,0
+0.02806645874502588,0,0,Low Risk,No Action,control,0
+0.5562449229184899,1,1,Medium Risk,Send Engagement Email,control,0
+0.7447043455020377,1,1,High Risk,Give Discount,treatment,0
+0.21237496596685485,0,0,Low Risk,No Action,control,0
+0.05831449907798196,0,0,Low Risk,No Action,control,0
+0.18697801454322477,0,0,Low Risk,No Action,control,0
+0.48455752495058146,1,0,Medium Risk,Send Engagement Email,control,0
+0.052072831949068955,0,0,Low Risk,No Action,control,0
+0.05550937806575779,0,0,Low Risk,No Action,control,0
+0.663818844360614,1,1,Medium Risk,Send Engagement Email,control,0
+0.04220685355342217,0,0,Low Risk,No Action,control,0
+0.29007915553984487,0,1,Low Risk,No Action,control,0
+0.36325422301126353,0,0,Low Risk,No Action,control,0
+0.7058710296843409,1,1,High Risk,Give Discount,control,0
+0.016660739531074234,0,0,Low Risk,No Action,control,0
+0.7176444108468168,1,1,High Risk,Give Discount,control,0
+0.6495965566159225,1,1,Medium Risk,Send Engagement Email,control,0
+0.25811453659107214,0,0,Low Risk,No Action,control,0
+0.04143109022764108,0,0,Low Risk,No Action,control,0
+0.6561383087335864,1,1,Medium Risk,Send Engagement Email,control,0
+0.44384099400903876,1,0,Medium Risk,Send Engagement Email,control,0
+0.09776181184464601,0,0,Low Risk,No Action,control,0
+0.41892665652327893,1,1,Medium Risk,Send Engagement Email,control,0
+0.40002316890163514,1,0,Medium Risk,Send Engagement Email,control,0
+0.7147289119566335,1,0,High Risk,Give Discount,control,0
+0.48876553611264795,1,0,Medium Risk,Send Engagement Email,control,0
+0.05698148871283998,0,0,Low Risk,No Action,control,0
+0.3709012168667717,0,1,Low Risk,No Action,control,0
+0.07865803483369066,0,0,Low Risk,No Action,control,0
+0.367529407385344,0,1,Low Risk,No Action,control,0
+0.7260296451976135,1,1,High Risk,Give Discount,treatment,0
+0.1163042249171644,0,0,Low Risk,No Action,control,0
+0.082443261764432,0,0,Low Risk,No Action,control,0
+0.22687023215757862,0,0,Low Risk,No Action,control,0
+0.1935734975903885,0,1,Low Risk,No Action,control,0
+0.6022097624096532,1,1,Medium Risk,Send Engagement Email,control,0
+0.1831165443539324,0,0,Low Risk,No Action,control,0
+0.16295917840035615,0,0,Low Risk,No Action,control,0
+0.3670381588638765,0,1,Low Risk,No Action,control,0
+0.129247997468941,0,0,Low Risk,No Action,control,0
+0.5007378176563594,1,1,Medium Risk,Send Engagement Email,control,0
+0.05425788610417445,0,0,Low Risk,No Action,control,0
+0.11949101693149328,0,0,Low Risk,No Action,control,0
+0.3232710764068562,0,0,Low Risk,No Action,control,0
+0.2586667114784248,0,0,Low Risk,No Action,control,0
+0.14358756279105894,0,0,Low Risk,No Action,control,0
+0.18113721398011848,0,0,Low Risk,No Action,control,0
+0.12419596647775188,0,1,Low Risk,No Action,control,0
+0.4284402585533208,1,1,Medium Risk,Send Engagement Email,control,0
+0.20324193437709914,0,0,Low Risk,No Action,control,0
+0.11283777043922245,0,0,Low Risk,No Action,control,0
+0.4252653333376367,1,0,Medium Risk,Send Engagement Email,control,0
+0.06928729601194483,0,0,Low Risk,No Action,control,0
+0.05692383578202264,0,0,Low Risk,No Action,control,0
+0.15874540552386798,0,1,Low Risk,No Action,control,0
+0.3995430322831795,0,0,Low Risk,No Action,control,0
+0.04639310338853531,0,0,Low Risk,No Action,control,0
+0.24188656869014347,0,0,Low Risk,No Action,control,0
+0.8099907133785297,1,1,High Risk,Give Discount,treatment,0
+0.5551826751251935,1,0,Medium Risk,Send Engagement Email,control,0
+0.049406537238813476,0,0,Low Risk,No Action,control,0
+0.4425983188620902,1,1,Medium Risk,Send Engagement Email,control,0
+0.05710664931600811,0,0,Low Risk,No Action,control,0
+0.04976657209255155,0,0,Low Risk,No Action,control,0
+0.5573723094081757,1,1,Medium Risk,Send Engagement Email,control,0
+0.5672169460777391,1,0,Medium Risk,Send Engagement Email,control,0
+0.38375478788286393,0,0,Low Risk,No Action,control,0
+0.028969218598001164,0,0,Low Risk,No Action,control,0
+0.03428735038809657,0,0,Low Risk,No Action,control,0
+0.13593621082944876,0,1,Low Risk,No Action,control,0
+0.2605938336343335,0,0,Low Risk,No Action,control,0
+0.3402146978332186,0,0,Low Risk,No Action,control,0
+0.2334242601901393,0,0,Low Risk,No Action,control,0
+0.0496864369137093,0,0,Low Risk,No Action,control,0
+0.09292154326511776,0,0,Low Risk,No Action,control,0
+0.08064482200872802,0,0,Low Risk,No Action,control,0
+0.3744139229840424,0,0,Low Risk,No Action,control,0
+0.47360936396362396,1,0,Medium Risk,Send Engagement Email,control,0
+0.79321787460608,1,1,High Risk,Give Discount,treatment,0
+0.7180038527843191,1,0,High Risk,Give Discount,control,1
+0.14767429286902703,0,0,Low Risk,No Action,control,0
+0.04132522212840536,0,0,Low Risk,No Action,control,0
+0.12736809078315292,0,0,Low Risk,No Action,control,0
+0.7276625661886874,1,0,High Risk,Give Discount,treatment,1
+0.42103233266574536,1,0,Medium Risk,Send Engagement Email,control,0
+0.2889066679584162,0,0,Low Risk,No Action,control,0
+0.07143714771854356,0,0,Low Risk,No Action,control,0
+0.723511636472013,1,0,High Risk,Give Discount,treatment,1
+0.8123856618764951,1,1,High Risk,Give Discount,control,0
+0.4007207428523507,1,1,Medium Risk,Send Engagement Email,control,0
+0.028318082382164895,0,0,Low Risk,No Action,control,0
+0.12753391129458772,0,0,Low Risk,No Action,control,0
+0.1656777063085411,0,1,Low Risk,No Action,control,0
+0.30033575618597663,0,0,Low Risk,No Action,control,0
+0.3352288766025826,0,0,Low Risk,No Action,control,0
+0.7435590440150863,1,0,High Risk,Give Discount,treatment,1
+0.32948526768467906,0,0,Low Risk,No Action,control,0
+0.187718365557551,0,0,Low Risk,No Action,control,0
+0.336288789894809,0,0,Low Risk,No Action,control,0
+0.6694288803604426,1,0,Medium Risk,Send Engagement Email,control,0
+0.7065566226034471,1,1,High Risk,Give Discount,treatment,0
+0.41357785472786773,1,0,Medium Risk,Send Engagement Email,control,0
+0.024951829766217234,0,0,Low Risk,No Action,control,0
+0.7597974294358265,1,1,High Risk,Give Discount,control,0
+0.5068321138854498,1,0,Medium Risk,Send Engagement Email,control,0
+0.1057755905970017,0,0,Low Risk,No Action,control,0
+0.028818120169631516,0,0,Low Risk,No Action,control,0
+0.76384164665877,1,1,High Risk,Give Discount,control,0
+0.6760824563827427,1,1,Medium Risk,Send Engagement Email,control,0
+0.09267958540212065,0,0,Low Risk,No Action,control,0
+0.6824215784587695,1,0,Medium Risk,Send Engagement Email,control,0
+0.7504302530536259,1,1,High Risk,Give Discount,treatment,0
+0.048164823486108,0,0,Low Risk,No Action,control,0
+0.023670055026906126,0,0,Low Risk,No Action,control,0
+0.713384486469906,1,0,High Risk,Give Discount,treatment,0
+0.7168046695321977,1,0,High Risk,Give Discount,control,0
+0.3044575918099022,0,0,Low Risk,No Action,control,0
+0.48092946428968075,1,0,Medium Risk,Send Engagement Email,control,0
+0.6365477849450975,1,1,Medium Risk,Send Engagement Email,control,0
+0.13974991442187096,0,0,Low Risk,No Action,control,0
+0.4152090635757133,1,1,Medium Risk,Send Engagement Email,control,0
+0.07664214897825297,0,0,Low Risk,No Action,control,0
+0.2570552766655599,0,1,Low Risk,No Action,control,0
+0.8180127044879479,1,1,High Risk,Give Discount,treatment,0
+0.29187889788999266,0,0,Low Risk,No Action,control,0
+0.3860811305435058,0,0,Low Risk,No Action,control,0
+0.05932569552436249,0,0,Low Risk,No Action,control,0
+0.6576260684567602,1,1,Medium Risk,Send Engagement Email,control,0
+0.48455825152445003,1,1,Medium Risk,Send Engagement Email,control,0
+0.05091939437454863,0,0,Low Risk,No Action,control,0
+0.6590170591122108,1,0,Medium Risk,Send Engagement Email,control,0
+0.07263328693633248,0,0,Low Risk,No Action,control,0
+0.30037296603576097,0,0,Low Risk,No Action,control,0
+0.2617719213349212,0,0,Low Risk,No Action,control,0
+0.693197127292115,1,1,Medium Risk,Send Engagement Email,control,0
+0.1693474743624422,0,0,Low Risk,No Action,control,0
+0.21779067166723456,0,0,Low Risk,No Action,control,0
+0.4459445169210651,1,1,Medium Risk,Send Engagement Email,control,0
+0.6318626582964504,1,0,Medium Risk,Send Engagement Email,control,0
+0.3112837730312316,0,0,Low Risk,No Action,control,0
+0.6159302184565615,1,1,Medium Risk,Send Engagement Email,control,0
+0.0775349156887318,0,0,Low Risk,No Action,control,0
+0.5292028609263132,1,0,Medium Risk,Send Engagement Email,control,0
+0.09563472590989228,0,0,Low Risk,No Action,control,0
+0.5958109823244435,1,0,Medium Risk,Send Engagement Email,control,0
+0.5956154523961962,1,1,Medium Risk,Send Engagement Email,control,0
+0.18977426803036787,0,1,Low Risk,No Action,control,0
+0.7045340534606549,1,0,High Risk,Give Discount,control,0
+0.7647613351307295,1,0,High Risk,Give Discount,treatment,1
+0.6168343773599643,1,1,Medium Risk,Send Engagement Email,control,0
+0.6963116501123536,1,1,Medium Risk,Send Engagement Email,control,0
+0.8176525232922972,1,1,High Risk,Give Discount,treatment,1
+0.6472147996576733,1,0,Medium Risk,Send Engagement Email,control,0
+0.04661452629528249,0,0,Low Risk,No Action,control,0
+0.03495494662100855,0,0,Low Risk,No Action,control,0
+0.476842222196443,1,0,Medium Risk,Send Engagement Email,control,0
+0.7661478218565869,1,0,High Risk,Give Discount,control,0
+0.682023500981818,1,0,Medium Risk,Send Engagement Email,control,0
+0.3513387142904248,0,0,Low Risk,No Action,control,0
+0.4722742210040876,1,0,Medium Risk,Send Engagement Email,control,0
+0.34968517716100306,0,0,Low Risk,No Action,control,0
+0.7601916978469895,1,0,High Risk,Give Discount,control,0
+0.06709873257761888,0,0,Low Risk,No Action,control,0
+0.4871397940322336,1,0,Medium Risk,Send Engagement Email,control,0
+0.1381348963914619,0,0,Low Risk,No Action,control,0
+0.7351038021031362,1,1,High Risk,Give Discount,treatment,0
+0.4221508042718437,1,1,Medium Risk,Send Engagement Email,control,0
+0.46049317472397283,1,0,Medium Risk,Send Engagement Email,control,0
+0.7802837021619744,1,0,High Risk,Give Discount,treatment,0
+0.7306320512084024,1,1,High Risk,Give Discount,control,0
+0.09099242954468038,0,0,Low Risk,No Action,control,0
+0.5715284284906429,1,0,Medium Risk,Send Engagement Email,control,0
+0.19444601643100742,0,0,Low Risk,No Action,control,0
+0.5078924811620859,1,1,Medium Risk,Send Engagement Email,control,0
+0.17305767756457804,0,1,Low Risk,No Action,control,0
+0.11754704091652096,0,0,Low Risk,No Action,control,0
+0.22010089139712713,0,0,Low Risk,No Action,control,0
+0.6249392915123291,1,1,Medium Risk,Send Engagement Email,control,0
+0.08306308387270372,0,0,Low Risk,No Action,control,0
+0.04230076217182958,0,0,Low Risk,No Action,control,0
+0.05814175193297906,0,0,Low Risk,No Action,control,0
+0.45060932068307874,1,1,Medium Risk,Send Engagement Email,control,0
+0.15393935234121073,0,0,Low Risk,No Action,control,0
+0.02636983863133817,0,0,Low Risk,No Action,control,0
+0.5928257544399881,1,1,Medium Risk,Send Engagement Email,control,0
+0.0765811686706522,0,0,Low Risk,No Action,control,0
+0.1636703138851916,0,0,Low Risk,No Action,control,0
+0.7128138480651113,1,0,High Risk,Give Discount,treatment,0
+0.6701779747448409,1,0,Medium Risk,Send Engagement Email,control,0
+0.1376829374413486,0,0,Low Risk,No Action,control,0
+0.7444146087357998,1,1,High Risk,Give Discount,control,0
+0.7758778339369294,1,1,High Risk,Give Discount,control,0
+0.16565293567725237,0,0,Low Risk,No Action,control,0
+0.7947883335414598,1,1,High Risk,Give Discount,treatment,0
+0.47689660457642463,1,1,Medium Risk,Send Engagement Email,control,0
+0.059379915978611905,0,0,Low Risk,No Action,control,0
+0.41735661923423373,1,1,Medium Risk,Send Engagement Email,control,0
+0.052018709812642686,0,0,Low Risk,No Action,control,0
+0.1737916447209493,0,0,Low Risk,No Action,control,0
+0.5168842527197193,1,0,Medium Risk,Send Engagement Email,control,0
+0.8099647769321289,1,0,High Risk,Give Discount,treatment,0
+0.04597382053223061,0,0,Low Risk,No Action,control,0
+0.026668713211867895,0,0,Low Risk,No Action,control,0
+0.4959715470839594,1,1,Medium Risk,Send Engagement Email,control,0
+0.23662256061180764,0,1,Low Risk,No Action,control,0
+0.05839565705109143,0,0,Low Risk,No Action,control,0
+0.5934041769958576,1,1,Medium Risk,Send Engagement Email,control,0
+0.03139615555032502,0,0,Low Risk,No Action,control,0
+0.7013002823156963,1,1,High Risk,Give Discount,treatment,1
+0.24885351606879563,0,0,Low Risk,No Action,control,0
+0.682948697968283,1,1,Medium Risk,Send Engagement Email,control,0
+0.3429025438549117,0,0,Low Risk,No Action,control,0
+0.5952881667033096,1,0,Medium Risk,Send Engagement Email,control,0
+0.1552055779802244,0,0,Low Risk,No Action,control,0
+0.01573032273973957,0,0,Low Risk,No Action,control,0
+0.04228230123779288,0,0,Low Risk,No Action,control,0
+0.019078078211250224,0,0,Low Risk,No Action,control,0
+0.08024077351208407,0,0,Low Risk,No Action,control,0
+0.7685164314684407,1,1,High Risk,Give Discount,control,0
+0.5647447143711407,1,1,Medium Risk,Send Engagement Email,control,0
+0.47093014704076364,1,0,Medium Risk,Send Engagement Email,control,0
+0.5813480684428344,1,1,Medium Risk,Send Engagement Email,control,0
+0.8227100420584037,1,1,High Risk,Give Discount,treatment,0
+0.7327090918853593,1,1,High Risk,Give Discount,control,0
+0.39207767877586763,0,0,Low Risk,No Action,control,0
+0.6079277565972016,1,1,Medium Risk,Send Engagement Email,control,0
+0.19467725471822145,0,1,Low Risk,No Action,control,0
+0.47184204284499315,1,1,Medium Risk,Send Engagement Email,control,0
+0.2625151176723243,0,1,Low Risk,No Action,control,0
+0.8140020709299132,1,1,High Risk,Give Discount,control,0
+0.05022835892527466,0,0,Low Risk,No Action,control,0
+0.08635836750277222,0,0,Low Risk,No Action,control,0
+0.09448436575555628,0,0,Low Risk,No Action,control,0
+0.2638039118587215,0,1,Low Risk,No Action,control,0
+0.17018962196682816,0,0,Low Risk,No Action,control,0
+0.10892431106125389,0,0,Low Risk,No Action,control,0
+0.11230788300833999,0,0,Low Risk,No Action,control,0
+0.021520973627280428,0,0,Low Risk,No Action,control,0
+0.07264833281179309,0,0,Low Risk,No Action,control,0
+0.14791261330574962,0,0,Low Risk,No Action,control,0
+0.019973588294856272,0,0,Low Risk,No Action,control,0
+0.16766001206511397,0,1,Low Risk,No Action,control,0
+0.23660669537482765,0,1,Low Risk,No Action,control,0
+0.3985223423437553,0,0,Low Risk,No Action,control,0
+0.6573022075341239,1,1,Medium Risk,Send Engagement Email,control,0
+0.4990277340801882,1,0,Medium Risk,Send Engagement Email,control,0
+0.1927963097717162,0,0,Low Risk,No Action,control,0
+0.5781644235723189,1,1,Medium Risk,Send Engagement Email,control,0
+0.017180234374209995,0,0,Low Risk,No Action,control,0
+0.2755889614583829,0,0,Low Risk,No Action,control,0
+0.03890301092822356,0,0,Low Risk,No Action,control,0
+0.7575521554455973,1,1,High Risk,Give Discount,treatment,0
+0.7302224345787898,1,1,High Risk,Give Discount,control,0
+0.4203252564210945,1,0,Medium Risk,Send Engagement Email,control,0
+0.38438186522693746,0,1,Low Risk,No Action,control,0
+0.04573212447902921,0,0,Low Risk,No Action,control,0
+0.7359355917454415,1,0,High Risk,Give Discount,control,1
+0.7489557665206901,1,1,High Risk,Give Discount,treatment,1
+0.6352299528835299,1,1,Medium Risk,Send Engagement Email,control,0
+0.4281219559839994,1,0,Medium Risk,Send Engagement Email,control,0
+0.15188700592987656,0,0,Low Risk,No Action,control,0
+0.3606170805974878,0,0,Low Risk,No Action,control,0
+0.14780975775115074,0,0,Low Risk,No Action,control,0
+0.16831214057377644,0,0,Low Risk,No Action,control,0
+0.8076833231861018,1,1,High Risk,Give Discount,control,0
+0.21040705151832684,0,0,Low Risk,No Action,control,0
+0.05048163623967992,0,0,Low Risk,No Action,control,0
+0.12278574669484127,0,0,Low Risk,No Action,control,0
+0.048825866609463246,0,0,Low Risk,No Action,control,0
+0.6219562394918546,1,0,Medium Risk,Send Engagement Email,control,0
+0.5677437715184496,1,0,Medium Risk,Send Engagement Email,control,0
+0.020843471241141998,0,0,Low Risk,No Action,control,0
+0.15054064017594943,0,1,Low Risk,No Action,control,0
+0.5509686895941838,1,1,Medium Risk,Send Engagement Email,control,0
+0.13177234237675675,0,0,Low Risk,No Action,control,0
+0.1252600985858678,0,0,Low Risk,No Action,control,0
+0.41160197156903733,1,0,Medium Risk,Send Engagement Email,control,0
+0.2090809449886243,0,1,Low Risk,No Action,control,0
+0.6837281476815914,1,1,Medium Risk,Send Engagement Email,control,0
+0.0687980962199374,0,0,Low Risk,No Action,control,0
+0.7076880979920364,1,0,High Risk,Give Discount,treatment,1
+0.6450967408820506,1,1,Medium Risk,Send Engagement Email,control,0
+0.053083439328326265,0,0,Low Risk,No Action,control,0
+0.6356108849161413,1,1,Medium Risk,Send Engagement Email,control,0
+0.23796075894770718,0,0,Low Risk,No Action,control,0
+0.4943705175975928,1,1,Medium Risk,Send Engagement Email,control,0
+0.3729344308699433,0,1,Low Risk,No Action,control,0
+0.04830797515147399,0,0,Low Risk,No Action,control,0
+0.15896515294250668,0,0,Low Risk,No Action,control,0
+0.6620843592093195,1,1,Medium Risk,Send Engagement Email,control,0
+0.37213754923260906,0,0,Low Risk,No Action,control,0
+0.017815624480123353,0,0,Low Risk,No Action,control,0
+0.7265033590369994,1,1,High Risk,Give Discount,treatment,0
+0.612518095895796,1,1,Medium Risk,Send Engagement Email,control,0
+0.192943714765935,0,0,Low Risk,No Action,control,0
+0.4806919517570185,1,0,Medium Risk,Send Engagement Email,control,0
+0.047469660445214064,0,0,Low Risk,No Action,control,0
+0.269869558423493,0,0,Low Risk,No Action,control,0
+0.29974650606599873,0,0,Low Risk,No Action,control,0
+0.14957349960927702,0,0,Low Risk,No Action,control,0
+0.46988107758219483,1,0,Medium Risk,Send Engagement Email,control,0
+0.7075070295096763,1,1,High Risk,Give Discount,treatment,0
+0.0505821711000418,0,0,Low Risk,No Action,control,0
+0.38123763983141246,0,0,Low Risk,No Action,control,0
+0.6661962398106043,1,0,Medium Risk,Send Engagement Email,control,0
+0.6233181470386867,1,1,Medium Risk,Send Engagement Email,control,0
+0.6882644559157948,1,1,Medium Risk,Send Engagement Email,control,0
+0.8023072970883007,1,1,High Risk,Give Discount,control,0
+0.49755414565909245,1,0,Medium Risk,Send Engagement Email,control,0
+0.1787891693262266,0,1,Low Risk,No Action,control,0
+0.05173903773712168,0,0,Low Risk,No Action,control,0
+0.02800128637327377,0,0,Low Risk,No Action,control,0
+0.5719193326381743,1,0,Medium Risk,Send Engagement Email,control,0
+0.15094757984574836,0,0,Low Risk,No Action,control,0
+0.08114767197377498,0,0,Low Risk,No Action,control,0
+0.01722363860098398,0,0,Low Risk,No Action,control,0
+0.30022925286436486,0,0,Low Risk,No Action,control,0
+0.05535165752205151,0,0,Low Risk,No Action,control,0
+0.11607365289315219,0,0,Low Risk,No Action,control,0
+0.09668273114556286,0,0,Low Risk,No Action,control,0
+0.45662180662974955,1,1,Medium Risk,Send Engagement Email,control,0
+0.2582771974642521,0,0,Low Risk,No Action,control,0
+0.07436554204235629,0,0,Low Risk,No Action,control,0
+0.7236304512672199,1,1,High Risk,Give Discount,treatment,1
+0.2226970793081806,0,0,Low Risk,No Action,control,0
+0.16432136382065762,0,1,Low Risk,No Action,control,0
+0.030256809016441122,0,0,Low Risk,No Action,control,0
+0.3118358777585523,0,0,Low Risk,No Action,control,0
+0.6251811606539077,1,1,Medium Risk,Send Engagement Email,control,0
+0.27729405362578724,0,0,Low Risk,No Action,control,0
+0.5819359060545354,1,0,Medium Risk,Send Engagement Email,control,0
+0.26165581284994444,0,0,Low Risk,No Action,control,0
+0.512513659335408,1,0,Medium Risk,Send Engagement Email,control,0
+0.28563937482911833,0,0,Low Risk,No Action,control,0
+0.18673510768721055,0,0,Low Risk,No Action,control,0
+0.63834834733859,1,0,Medium Risk,Send Engagement Email,control,0
+0.05560135315333562,0,0,Low Risk,No Action,control,0
+0.1966453354432941,0,0,Low Risk,No Action,control,0
+0.38848463945564843,0,1,Low Risk,No Action,control,0
+0.21356147801562567,0,0,Low Risk,No Action,control,0
+0.747950351487491,1,1,High Risk,Give Discount,control,0
+0.6850897740982226,1,0,Medium Risk,Send Engagement Email,control,0
+0.2687046082931738,0,0,Low Risk,No Action,control,0
+0.17695653640434186,0,0,Low Risk,No Action,control,0
+0.4018244429137881,1,0,Medium Risk,Send Engagement Email,control,0
+0.7855351969480618,1,1,High Risk,Give Discount,treatment,0
+0.07231797817860425,0,0,Low Risk,No Action,control,0
+0.5907148927135711,1,1,Medium Risk,Send Engagement Email,control,0
+0.5990664393318048,1,0,Medium Risk,Send Engagement Email,control,0
+0.5561999517299689,1,1,Medium Risk,Send Engagement Email,control,0
+0.788831062021792,1,1,High Risk,Give Discount,treatment,0
+0.626314952783299,1,0,Medium Risk,Send Engagement Email,control,0
+0.025802436135241556,0,0,Low Risk,No Action,control,0
+0.5274399157186906,1,0,Medium Risk,Send Engagement Email,control,0
+0.13845153052132805,0,0,Low Risk,No Action,control,0
+0.23500507879275342,0,1,Low Risk,No Action,control,0
+0.39525606896004856,0,0,Low Risk,No Action,control,0
+0.3010629758507117,0,0,Low Risk,No Action,control,0
+0.1241946609273158,0,0,Low Risk,No Action,control,0
+0.3628083932988927,0,0,Low Risk,No Action,control,0
+0.5490811296965981,1,0,Medium Risk,Send Engagement Email,control,0
+0.059205448690260586,0,0,Low Risk,No Action,control,0
+0.38092354652922145,0,0,Low Risk,No Action,control,0
+0.23986039482436988,0,0,Low Risk,No Action,control,0
+0.8033303813374508,1,1,High Risk,Give Discount,control,0
+0.5121600603883923,1,1,Medium Risk,Send Engagement Email,control,0
+0.5965804492050144,1,1,Medium Risk,Send Engagement Email,control,0
+0.15976765259869768,0,0,Low Risk,No Action,control,0
+0.6925611471694724,1,1,Medium Risk,Send Engagement Email,control,0
+0.7838272275134943,1,1,High Risk,Give Discount,control,0
+0.7662359989355234,1,0,High Risk,Give Discount,control,1
+0.6029315493392577,1,0,Medium Risk,Send Engagement Email,control,0
+0.05934945704348907,0,0,Low Risk,No Action,control,0
+0.3231565633317764,0,0,Low Risk,No Action,control,0
+0.4373403621690799,1,0,Medium Risk,Send Engagement Email,control,0
+0.6426323775274985,1,0,Medium Risk,Send Engagement Email,control,0
+0.41373537103463404,1,1,Medium Risk,Send Engagement Email,control,0
+0.4722112100947219,1,0,Medium Risk,Send Engagement Email,control,0
+0.15016832484349554,0,0,Low Risk,No Action,control,0
+0.5016202025712779,1,0,Medium Risk,Send Engagement Email,control,0
+0.37208429501977797,0,0,Low Risk,No Action,control,0
+0.05789655584357275,0,0,Low Risk,No Action,control,0
+0.21910052105594152,0,0,Low Risk,No Action,control,0
+0.12907828823358627,0,0,Low Risk,No Action,control,0
+0.13417130435676777,0,0,Low Risk,No Action,control,0
+0.1640846758731154,0,0,Low Risk,No Action,control,0
+0.6032718521367998,1,1,Medium Risk,Send Engagement Email,control,0
+0.46862385977610366,1,0,Medium Risk,Send Engagement Email,control,0
+0.6063625992408225,1,0,Medium Risk,Send Engagement Email,control,0
+0.6040905089850478,1,1,Medium Risk,Send Engagement Email,control,0
+0.6209804388374424,1,1,Medium Risk,Send Engagement Email,control,0
+0.6044028289893758,1,1,Medium Risk,Send Engagement Email,control,0
+0.04148520749773593,0,0,Low Risk,No Action,control,0
+0.5791803904899678,1,0,Medium Risk,Send Engagement Email,control,0
+0.0941322743645321,0,0,Low Risk,No Action,control,0
+0.3494932017554804,0,0,Low Risk,No Action,control,0
+0.15456861000636363,0,1,Low Risk,No Action,control,0
+0.4082873228363063,1,0,Medium Risk,Send Engagement Email,control,0
+0.018641391328955894,0,0,Low Risk,No Action,control,0
+0.07808395577768112,0,0,Low Risk,No Action,control,0
+0.4923252209574242,1,0,Medium Risk,Send Engagement Email,control,0
+0.25040817116632424,0,0,Low Risk,No Action,control,0
+0.597482798039539,1,0,Medium Risk,Send Engagement Email,control,0
+0.6622376445079455,1,1,Medium Risk,Send Engagement Email,control,0
+0.7002842973134865,1,1,High Risk,Give Discount,control,0
+0.6563048473337505,1,1,Medium Risk,Send Engagement Email,control,0
+0.6274987885925691,1,0,Medium Risk,Send Engagement Email,control,0
+0.015685552430201533,0,0,Low Risk,No Action,control,0
+0.1770376433716349,0,0,Low Risk,No Action,control,0
+0.02814550693150275,0,0,Low Risk,No Action,control,0
+0.20931558774114212,0,0,Low Risk,No Action,control,0
+0.10100581391812798,0,0,Low Risk,No Action,control,0
+0.4639823781554543,1,0,Medium Risk,Send Engagement Email,control,0
+0.08112477543049561,0,0,Low Risk,No Action,control,0
+0.05139493529212438,0,0,Low Risk,No Action,control,0
+0.04386613004059842,0,0,Low Risk,No Action,control,0
+0.022027823404165803,0,0,Low Risk,No Action,control,0
+0.2555531512462127,0,0,Low Risk,No Action,control,0
+0.6203769621325932,1,1,Medium Risk,Send Engagement Email,control,0
+0.08313832138710722,0,0,Low Risk,No Action,control,0
+0.478066860549137,1,0,Medium Risk,Send Engagement Email,control,0
+0.7858248016289676,1,1,High Risk,Give Discount,treatment,0
+0.05808701901698868,0,0,Low Risk,No Action,control,0
+0.7981824215613135,1,1,High Risk,Give Discount,control,0
+0.7206018151410999,1,0,High Risk,Give Discount,control,0
+0.1553798041169506,0,0,Low Risk,No Action,control,0
+0.2052706665662134,0,0,Low Risk,No Action,control,0
+0.0993298312919634,0,0,Low Risk,No Action,control,0
+0.5782249931444369,1,0,Medium Risk,Send Engagement Email,control,0
+0.12988587820658437,0,0,Low Risk,No Action,control,0
+0.5432124868791128,1,0,Medium Risk,Send Engagement Email,control,0
+0.5129712610120165,1,0,Medium Risk,Send Engagement Email,control,0
+0.1670722104524161,0,0,Low Risk,No Action,control,0
+0.15372844044200795,0,0,Low Risk,No Action,control,0
+0.27770010750472324,0,0,Low Risk,No Action,control,0
+0.04668886489239776,0,0,Low Risk,No Action,control,0
+0.6736275897910178,1,0,Medium Risk,Send Engagement Email,control,0
+0.7282881600963533,1,1,High Risk,Give Discount,treatment,0
+0.4333399446428968,1,1,Medium Risk,Send Engagement Email,control,0
+0.5736742053791664,1,0,Medium Risk,Send Engagement Email,control,0
+0.11369648512928283,0,0,Low Risk,No Action,control,0
+0.018589571822031695,0,0,Low Risk,No Action,control,0
+0.02063178994811286,0,0,Low Risk,No Action,control,0
+0.0469138687436857,0,1,Low Risk,No Action,control,0
+0.2839614522852285,0,1,Low Risk,No Action,control,0
+0.4465520755138229,1,0,Medium Risk,Send Engagement Email,control,0
+0.08206643471367615,0,0,Low Risk,No Action,control,0
+0.024202313234103417,0,0,Low Risk,No Action,control,0
+0.13537273167022432,0,0,Low Risk,No Action,control,0
+0.6336820783811034,1,1,Medium Risk,Send Engagement Email,control,0
+0.34140179273527493,0,0,Low Risk,No Action,control,0
+0.04714016891281793,0,0,Low Risk,No Action,control,0
+0.5454557024288945,1,1,Medium Risk,Send Engagement Email,control,0
+0.6747926280493629,1,1,Medium Risk,Send Engagement Email,control,0
+0.1755220352597278,0,0,Low Risk,No Action,control,0
+0.04443568191676177,0,0,Low Risk,No Action,control,0
+0.06310157484527039,0,0,Low Risk,No Action,control,0
+0.8103249581277796,1,1,High Risk,Give Discount,control,0
+0.16354868389746688,0,0,Low Risk,No Action,control,0
+0.18717487231794247,0,0,Low Risk,No Action,control,0
+0.4687073014536051,1,0,Medium Risk,Send Engagement Email,control,0
+0.11149537313959805,0,0,Low Risk,No Action,control,0
+0.05359913598856515,0,0,Low Risk,No Action,control,0
+0.4260953828395097,1,0,Medium Risk,Send Engagement Email,control,0
+0.7343935987805207,1,1,High Risk,Give Discount,control,0
+0.3220513567870539,0,1,Low Risk,No Action,control,0
+0.4324394825358406,1,0,Medium Risk,Send Engagement Email,control,0
+0.5202147208380978,1,0,Medium Risk,Send Engagement Email,control,0
+0.1687823984100298,0,0,Low Risk,No Action,control,0
+0.7717304077502811,1,1,High Risk,Give Discount,control,0
+0.4617170827753887,1,0,Medium Risk,Send Engagement Email,control,0
+0.7646701739085326,1,0,High Risk,Give Discount,control,0
+0.26760727245972127,0,0,Low Risk,No Action,control,0
+0.43587533566770503,1,0,Medium Risk,Send Engagement Email,control,0
+0.6411697304669346,1,1,Medium Risk,Send Engagement Email,control,0
+0.05875200438442581,0,0,Low Risk,No Action,control,0
+0.4598520859612079,1,0,Medium Risk,Send Engagement Email,control,0
+0.5232505181695175,1,0,Medium Risk,Send Engagement Email,control,0
+0.599023457497806,1,0,Medium Risk,Send Engagement Email,control,0
+0.2663037086610593,0,1,Low Risk,No Action,control,0
+0.5698409089869473,1,0,Medium Risk,Send Engagement Email,control,0
+0.5754614627847929,1,1,Medium Risk,Send Engagement Email,control,0
+0.8123411975470958,1,0,High Risk,Give Discount,treatment,0
+0.4278449021788045,1,0,Medium Risk,Send Engagement Email,control,0
+0.27422035283362056,0,0,Low Risk,No Action,control,0
+0.5167288961529136,1,0,Medium Risk,Send Engagement Email,control,0
+0.6003069292621029,1,1,Medium Risk,Send Engagement Email,control,0
+0.21544491021723228,0,0,Low Risk,No Action,control,0
+0.42310778163786567,1,0,Medium Risk,Send Engagement Email,control,0
+0.264956526195274,0,0,Low Risk,No Action,control,0
+0.492782219079328,1,0,Medium Risk,Send Engagement Email,control,0
+0.13485907549136278,0,0,Low Risk,No Action,control,0
+0.07281466868853526,0,0,Low Risk,No Action,control,0
+0.5066489731454545,1,0,Medium Risk,Send Engagement Email,control,0
+0.02042172422139274,0,0,Low Risk,No Action,control,0
+0.7215782266214393,1,1,High Risk,Give Discount,treatment,0
+0.3118644222934902,0,0,Low Risk,No Action,control,0
+0.05741974018893411,0,1,Low Risk,No Action,control,0
+0.22579847917067986,0,0,Low Risk,No Action,control,0
+0.022497587844468286,0,0,Low Risk,No Action,control,0
+0.5643757570938468,1,1,Medium Risk,Send Engagement Email,control,0
+0.3157920658157439,0,0,Low Risk,No Action,control,0
+0.06678651043246552,0,0,Low Risk,No Action,control,0
+0.34339901933716593,0,0,Low Risk,No Action,control,0
+0.05492439075839478,0,0,Low Risk,No Action,control,0
+0.19872133646438706,0,0,Low Risk,No Action,control,0
+0.6761728189268662,1,0,Medium Risk,Send Engagement Email,control,0
+0.05669309159525841,0,0,Low Risk,No Action,control,0
+0.020453096076395207,0,0,Low Risk,No Action,control,0
+0.3247658563717449,0,0,Low Risk,No Action,control,0
+0.23256951200312012,0,0,Low Risk,No Action,control,0
+0.7402373181971144,1,0,High Risk,Give Discount,control,1
+0.04627203743428391,0,0,Low Risk,No Action,control,0
+0.19909899692460153,0,0,Low Risk,No Action,control,0
+0.8117099716337894,1,1,High Risk,Give Discount,treatment,0
+0.5308127349639721,1,1,Medium Risk,Send Engagement Email,control,0
+0.5216798230597952,1,0,Medium Risk,Send Engagement Email,control,0
+0.2779336233288903,0,1,Low Risk,No Action,control,0
+0.1601076216387346,0,0,Low Risk,No Action,control,0
+0.4029723040332005,1,1,Medium Risk,Send Engagement Email,control,0
+0.10522335742645188,0,0,Low Risk,No Action,control,0
+0.2901338153360897,0,0,Low Risk,No Action,control,0
+0.18542144275046138,0,0,Low Risk,No Action,control,0
+0.057222645065181606,0,0,Low Risk,No Action,control,0
+0.7211215557639796,1,0,High Risk,Give Discount,control,0
+0.5347211753851475,1,0,Medium Risk,Send Engagement Email,control,0
+0.31941101108438547,0,0,Low Risk,No Action,control,0
+0.3743092575500544,0,0,Low Risk,No Action,control,0
+0.05081748453589413,0,0,Low Risk,No Action,control,0
+0.701401512856653,1,1,High Risk,Give Discount,control,0
+0.20594477104449146,0,0,Low Risk,No Action,control,0
+0.023290952831132212,0,0,Low Risk,No Action,control,0
+0.26726417898229315,0,0,Low Risk,No Action,control,0
+0.05270651849573125,0,0,Low Risk,No Action,control,0
+0.08420227150355132,0,0,Low Risk,No Action,control,0
+0.3278199408552548,0,0,Low Risk,No Action,control,0
+0.019574441972061596,0,0,Low Risk,No Action,control,0
+0.07706950545898918,0,0,Low Risk,No Action,control,0
+0.3526669676123998,0,0,Low Risk,No Action,control,0
+0.10711432078996298,0,0,Low Risk,No Action,control,0
+0.44480594758213393,1,0,Medium Risk,Send Engagement Email,control,0
+0.12574005343666197,0,0,Low Risk,No Action,control,0
+0.18135046319981032,0,0,Low Risk,No Action,control,0
+0.5288322751293786,1,1,Medium Risk,Send Engagement Email,control,0
+0.062121535688773634,0,0,Low Risk,No Action,control,0
+0.07487689230255389,0,0,Low Risk,No Action,control,0
+0.5296130656854665,1,1,Medium Risk,Send Engagement Email,control,0
+0.7609004183164294,1,1,High Risk,Give Discount,control,0
+0.23709591954795126,0,1,Low Risk,No Action,control,0
+0.21709767671567876,0,0,Low Risk,No Action,control,0
+0.0452679212419988,0,0,Low Risk,No Action,control,0
+0.01762397672237764,0,0,Low Risk,No Action,control,0
+0.3972975907046298,0,0,Low Risk,No Action,control,0
+0.6494040039644057,1,1,Medium Risk,Send Engagement Email,control,0
+0.316251668077239,0,0,Low Risk,No Action,control,0
+0.5604312864644643,1,1,Medium Risk,Send Engagement Email,control,0
+0.24399019240083636,0,0,Low Risk,No Action,control,0
+0.27112395009329904,0,0,Low Risk,No Action,control,0
+0.25168145894783817,0,0,Low Risk,No Action,control,0
+0.8254245785492131,1,1,High Risk,Give Discount,control,0
+0.23602852038228278,0,0,Low Risk,No Action,control,0
+0.12236914706284124,0,0,Low Risk,No Action,control,0
+0.04184271138877669,0,0,Low Risk,No Action,control,0
+0.4142825232105186,1,1,Medium Risk,Send Engagement Email,control,0
+0.5802676843382396,1,1,Medium Risk,Send Engagement Email,control,0
+0.14509585882439424,0,0,Low Risk,No Action,control,0
+0.059237339008653994,0,0,Low Risk,No Action,control,0
+0.1016314135451517,0,0,Low Risk,No Action,control,0
+0.07446601072327425,0,0,Low Risk,No Action,control,0
+0.044757495555967405,0,0,Low Risk,No Action,control,0
+0.7762403492369497,1,1,High Risk,Give Discount,treatment,0
+0.2599293714637087,0,1,Low Risk,No Action,control,0
+0.7039082896429888,1,1,High Risk,Give Discount,treatment,0
+0.11340714812988925,0,0,Low Risk,No Action,control,0
+0.40581633171107107,1,0,Medium Risk,Send Engagement Email,control,0
+0.053195814207223205,0,0,Low Risk,No Action,control,0
+0.05280837050074125,0,0,Low Risk,No Action,control,0
+0.19517182393962046,0,1,Low Risk,No Action,control,0
+0.02509910637624291,0,0,Low Risk,No Action,control,0
+0.4568511794164521,1,1,Medium Risk,Send Engagement Email,control,0
+0.050273706397896134,0,0,Low Risk,No Action,control,0
+0.1347903163747705,0,0,Low Risk,No Action,control,0
+0.11716306429328618,0,0,Low Risk,No Action,control,0
+0.3773452730191151,0,0,Low Risk,No Action,control,0
+0.16316851496401422,0,0,Low Risk,No Action,control,0
+0.285105194244272,0,1,Low Risk,No Action,control,0
+0.518738081284937,1,0,Medium Risk,Send Engagement Email,control,0
+0.22564126104435459,0,0,Low Risk,No Action,control,0
+0.5349359160058701,1,0,Medium Risk,Send Engagement Email,control,0
+0.7434600677475092,1,1,High Risk,Give Discount,treatment,1
+0.18698024414707576,0,0,Low Risk,No Action,control,0
+0.25553934535009776,0,1,Low Risk,No Action,control,0
+0.28855997547106615,0,0,Low Risk,No Action,control,0
+0.016233578047916586,0,0,Low Risk,No Action,control,0
+0.40720346902523835,1,1,Medium Risk,Send Engagement Email,control,0
+0.09016469166495122,0,0,Low Risk,No Action,control,0
+0.2860417225141074,0,0,Low Risk,No Action,control,0
+0.11857977896478422,0,0,Low Risk,No Action,control,0
+0.594969349119907,1,0,Medium Risk,Send Engagement Email,control,0
+0.1831812980759969,0,1,Low Risk,No Action,control,0
+0.03860032342463545,0,0,Low Risk,No Action,control,0
+0.050018497603660964,0,0,Low Risk,No Action,control,0
+0.13944480686470698,0,0,Low Risk,No Action,control,0
+0.4788663833572104,1,1,Medium Risk,Send Engagement Email,control,0
+0.02317404376887494,0,0,Low Risk,No Action,control,0
+0.5064882681470605,1,1,Medium Risk,Send Engagement Email,control,0
+0.04992017454126056,0,0,Low Risk,No Action,control,0
+0.7100106218154788,1,0,High Risk,Give Discount,control,1
+0.4102450944907784,1,0,Medium Risk,Send Engagement Email,control,0
+0.2642048897461396,0,0,Low Risk,No Action,control,0
+0.15362138723200938,0,0,Low Risk,No Action,control,0
+0.6655008645510998,1,0,Medium Risk,Send Engagement Email,control,0
+0.42173921617184496,1,1,Medium Risk,Send Engagement Email,control,0
+0.6362296282583131,1,0,Medium Risk,Send Engagement Email,control,0
+0.19705665171265813,0,0,Low Risk,No Action,control,0
+0.3566266517814976,0,0,Low Risk,No Action,control,0
+0.7518148725504968,1,1,High Risk,Give Discount,treatment,0
+0.7427696904365259,1,1,High Risk,Give Discount,control,0
+0.16084520149137935,0,0,Low Risk,No Action,control,0
+0.017123502297854733,0,0,Low Risk,No Action,control,0
+0.047550860419866295,0,0,Low Risk,No Action,control,0
+0.045068692067827265,0,0,Low Risk,No Action,control,0
+0.16980437214037997,0,0,Low Risk,No Action,control,0
+0.7008878337084584,1,0,High Risk,Give Discount,treatment,0
+0.4146974868566982,1,0,Medium Risk,Send Engagement Email,control,0
+0.6153338250548566,1,1,Medium Risk,Send Engagement Email,control,0
+0.049632220881114436,0,0,Low Risk,No Action,control,0
+0.23600144304519854,0,0,Low Risk,No Action,control,0
+0.043254938550049055,0,0,Low Risk,No Action,control,0
+0.025490752916447413,0,0,Low Risk,No Action,control,0
+0.16752991402286188,0,0,Low Risk,No Action,control,0
+0.027584820959235354,0,0,Low Risk,No Action,control,0
+0.02774734589275306,0,0,Low Risk,No Action,control,0
+0.03130743813262698,0,0,Low Risk,No Action,control,0
+0.16778506643112637,0,0,Low Risk,No Action,control,0
+0.09110410229200422,0,0,Low Risk,No Action,control,0
+0.7526496724200399,1,0,High Risk,Give Discount,treatment,0
+0.07217315440914657,0,0,Low Risk,No Action,control,0
+0.2912039305028181,0,0,Low Risk,No Action,control,0
+0.7630303373252025,1,1,High Risk,Give Discount,treatment,1
+0.7501580884047779,1,1,High Risk,Give Discount,treatment,1
+0.3893501460307067,0,1,Low Risk,No Action,control,0
+0.6193940011428024,1,1,Medium Risk,Send Engagement Email,control,0
+0.5580300624432221,1,1,Medium Risk,Send Engagement Email,control,0
+0.5901763896564208,1,0,Medium Risk,Send Engagement Email,control,0
+0.3366189259655775,0,0,Low Risk,No Action,control,0
+0.6854495118761864,1,1,Medium Risk,Send Engagement Email,control,0
+0.14802008533685185,0,0,Low Risk,No Action,control,0
+0.2828347371611953,0,0,Low Risk,No Action,control,0
+0.12122243725121724,0,0,Low Risk,No Action,control,0
+0.3621094905249157,0,1,Low Risk,No Action,control,0
+0.25077173263815966,0,0,Low Risk,No Action,control,0
+0.26641128774534917,0,1,Low Risk,No Action,control,0
+0.685280097139361,1,0,Medium Risk,Send Engagement Email,control,0
+0.7960435344499832,1,1,High Risk,Give Discount,treatment,0
+0.17083536144191247,0,1,Low Risk,No Action,control,0
+0.7912019649999348,1,1,High Risk,Give Discount,treatment,1
+0.2639200832785152,0,1,Low Risk,No Action,control,0
+0.11909619095596359,0,0,Low Risk,No Action,control,0
+0.31115609669952066,0,0,Low Risk,No Action,control,0
+0.4874849174971418,1,0,Medium Risk,Send Engagement Email,control,0
+0.41927684490163325,1,0,Medium Risk,Send Engagement Email,control,0
+0.16222264782469112,0,0,Low Risk,No Action,control,0
+0.025655862340166966,0,0,Low Risk,No Action,control,0
+0.11171516783838507,0,0,Low Risk,No Action,control,0
+0.05333338799383148,0,0,Low Risk,No Action,control,0
+0.3354889249360297,0,0,Low Risk,No Action,control,0
+0.07669363318969155,0,0,Low Risk,No Action,control,0
+0.14936858017603444,0,0,Low Risk,No Action,control,0
+0.28066901056568244,0,0,Low Risk,No Action,control,0
+0.6393557963198391,1,1,Medium Risk,Send Engagement Email,control,0
+0.4730457806012305,1,1,Medium Risk,Send Engagement Email,control,0
+0.027625830401965697,0,0,Low Risk,No Action,control,0
+0.16256633804854714,0,0,Low Risk,No Action,control,0
+0.24769541816939797,0,0,Low Risk,No Action,control,0
+0.4890966784820264,1,0,Medium Risk,Send Engagement Email,control,0
+0.0490552636701655,0,0,Low Risk,No Action,control,0
+0.5957233489441628,1,1,Medium Risk,Send Engagement Email,control,0
+0.7071412433261336,1,1,High Risk,Give Discount,treatment,0
+0.13461660437593156,0,0,Low Risk,No Action,control,0
+0.042884985295109285,0,0,Low Risk,No Action,control,0
+0.6168780686582168,1,0,Medium Risk,Send Engagement Email,control,0
+0.5323351510399514,1,1,Medium Risk,Send Engagement Email,control,0
+0.7170319868178298,1,0,High Risk,Give Discount,control,1
+0.4103225139721583,1,0,Medium Risk,Send Engagement Email,control,0
+0.14504829353129356,0,0,Low Risk,No Action,control,0
+0.5232307242555895,1,1,Medium Risk,Send Engagement Email,control,0
+0.6333756510429996,1,1,Medium Risk,Send Engagement Email,control,0
+0.06119166891891517,0,0,Low Risk,No Action,control,0
+0.20881225849618174,0,0,Low Risk,No Action,control,0
+0.16183971661388102,0,0,Low Risk,No Action,control,0
+0.5990664393318048,1,0,Medium Risk,Send Engagement Email,control,0
+0.09383043673826165,0,0,Low Risk,No Action,control,0
+0.058974483637889166,0,0,Low Risk,No Action,control,0
+0.19854892117600315,0,0,Low Risk,No Action,control,0
+0.7288815977224682,1,1,High Risk,Give Discount,control,0
+0.14561027648565078,0,0,Low Risk,No Action,control,0
+0.45606544677565514,1,1,Medium Risk,Send Engagement Email,control,0
+0.7252384617430918,1,0,High Risk,Give Discount,control,0
+0.04623377185621055,0,0,Low Risk,No Action,control,0
+0.38083229015178427,0,0,Low Risk,No Action,control,0
+0.20684855044856978,0,0,Low Risk,No Action,control,0
+0.6270918920000479,1,0,Medium Risk,Send Engagement Email,control,0
+0.16529200866126165,0,0,Low Risk,No Action,control,0
+0.4513090987989041,1,0,Medium Risk,Send Engagement Email,control,0
+0.021302216548459384,0,0,Low Risk,No Action,control,0
+0.06159502518935369,0,0,Low Risk,No Action,control,0
+0.36737746345089256,0,0,Low Risk,No Action,control,0
+0.2801765020131967,0,0,Low Risk,No Action,control,0
+0.6733409130175193,1,0,Medium Risk,Send Engagement Email,control,0
+0.6325566221892168,1,0,Medium Risk,Send Engagement Email,control,0
+0.3188261634647295,0,0,Low Risk,No Action,control,0
+0.35963841124939744,0,1,Low Risk,No Action,control,0
+0.6720582777075133,1,0,Medium Risk,Send Engagement Email,control,0
+0.05476048187811246,0,0,Low Risk,No Action,control,0
+0.11443592656674902,0,1,Low Risk,No Action,control,0
+0.13231149451977425,0,0,Low Risk,No Action,control,0
+0.09076913725364781,0,0,Low Risk,No Action,control,0
+0.02084074164851794,0,0,Low Risk,No Action,control,0
+0.13337178025527385,0,0,Low Risk,No Action,control,0
+0.2703615730626692,0,0,Low Risk,No Action,control,0
+0.09067703544845009,0,0,Low Risk,No Action,control,0
+0.3935357676571431,0,0,Low Risk,No Action,control,0
+0.3936594302466372,0,1,Low Risk,No Action,control,0
+0.5068608270148227,1,0,Medium Risk,Send Engagement Email,control,0
+0.4141035075945133,1,0,Medium Risk,Send Engagement Email,control,0
+0.08177500496093176,0,1,Low Risk,No Action,control,0
+0.1831222625740943,0,0,Low Risk,No Action,control,0
+0.38848463945564843,0,1,Low Risk,No Action,control,0
+0.6790587683094766,1,1,Medium Risk,Send Engagement Email,control,0
+0.024344285302115985,0,0,Low Risk,No Action,control,0
+0.08848897548625188,0,0,Low Risk,No Action,control,0
+0.34587270791829233,0,1,Low Risk,No Action,control,0
+0.019817959122484304,0,0,Low Risk,No Action,control,0
+0.5920152634495018,1,1,Medium Risk,Send Engagement Email,control,0
+0.06688075897112587,0,0,Low Risk,No Action,control,0
+0.1476805065052781,0,1,Low Risk,No Action,control,0
+0.15551497079236387,0,0,Low Risk,No Action,control,0
+0.7947570159847402,1,1,High Risk,Give Discount,treatment,0
+0.06445663618447525,0,0,Low Risk,No Action,control,0
+0.04212322302981725,0,0,Low Risk,No Action,control,0
+0.6260013771489865,1,0,Medium Risk,Send Engagement Email,control,0
+0.8195124515532582,1,1,High Risk,Give Discount,control,0
+0.14560964972363608,0,0,Low Risk,No Action,control,0
+0.03693883833544674,0,0,Low Risk,No Action,control,0
+0.1773159756625096,0,0,Low Risk,No Action,control,0
+0.676060346535171,1,0,Medium Risk,Send Engagement Email,control,0
+0.6147899929029812,1,1,Medium Risk,Send Engagement Email,control,0
+0.08172898144403754,0,0,Low Risk,No Action,control,0
+0.049975470695715805,0,0,Low Risk,No Action,control,0
+0.13528733214795374,0,0,Low Risk,No Action,control,0
+0.4477682676172474,1,0,Medium Risk,Send Engagement Email,control,0
+0.7315841185607642,1,1,High Risk,Give Discount,control,0
+0.27797455410920335,0,1,Low Risk,No Action,control,0
+0.18627182443440085,0,0,Low Risk,No Action,control,0
+0.3329022461975003,0,0,Low Risk,No Action,control,0
+0.019144062180666735,0,0,Low Risk,No Action,control,0
+0.20507807905336503,0,0,Low Risk,No Action,control,0
+0.4767966377564184,1,1,Medium Risk,Send Engagement Email,control,0
+0.1304084338527481,0,0,Low Risk,No Action,control,0
+0.02836330612374951,0,0,Low Risk,No Action,control,0
+0.622233035032696,1,0,Medium Risk,Send Engagement Email,control,0
+0.5031185859604798,1,0,Medium Risk,Send Engagement Email,control,0
+0.33297942043055506,0,1,Low Risk,No Action,control,0
+0.20174057228503922,0,0,Low Risk,No Action,control,0
+0.01457507944506069,0,0,Low Risk,No Action,control,0
+0.08843967915539379,0,0,Low Risk,No Action,control,0
+0.528905964471848,1,0,Medium Risk,Send Engagement Email,control,0
+0.1339833170944944,0,1,Low Risk,No Action,control,0
+0.04978712720579628,0,0,Low Risk,No Action,control,0
+0.08344236862770597,0,0,Low Risk,No Action,control,0
+0.20716713535249057,0,0,Low Risk,No Action,control,0
+0.3097606944171572,0,0,Low Risk,No Action,control,0
+0.6821288378730115,1,1,Medium Risk,Send Engagement Email,control,0
+0.04826044998586355,0,0,Low Risk,No Action,control,0
+0.04558174650054594,0,0,Low Risk,No Action,control,0
+0.25185736931670216,0,0,Low Risk,No Action,control,0
+0.608868269156555,1,0,Medium Risk,Send Engagement Email,control,0
+0.025931695789894658,0,0,Low Risk,No Action,control,0
+0.12764986490535152,0,0,Low Risk,No Action,control,0
+0.16479499152282112,0,0,Low Risk,No Action,control,0
+0.16210501144079728,0,0,Low Risk,No Action,control,0
+0.6296126679587605,1,0,Medium Risk,Send Engagement Email,control,0
+0.7032382842489017,1,1,High Risk,Give Discount,control,1
+0.3999188726301027,0,0,Low Risk,No Action,control,0
+0.725121657719045,1,1,High Risk,Give Discount,control,0
+0.10733321538764982,0,0,Low Risk,No Action,control,0
+0.08438933708795454,0,0,Low Risk,No Action,control,0
+0.77571539531137,1,1,High Risk,Give Discount,treatment,0
+0.4701645082049907,1,0,Medium Risk,Send Engagement Email,control,0
+0.09841224557819182,0,0,Low Risk,No Action,control,0
+0.7367500983399098,1,1,High Risk,Give Discount,control,0
+0.17125550959942842,0,0,Low Risk,No Action,control,0
+0.49351340789107134,1,0,Medium Risk,Send Engagement Email,control,0
+0.17667814981983498,0,0,Low Risk,No Action,control,0
+0.05026502494531841,0,0,Low Risk,No Action,control,0
+0.10138459200320372,0,0,Low Risk,No Action,control,0
+0.37749852433853787,0,0,Low Risk,No Action,control,0
+0.04060563664565352,0,0,Low Risk,No Action,control,0
+0.6455880666809601,1,1,Medium Risk,Send Engagement Email,control,0
+0.6614968967716719,1,0,Medium Risk,Send Engagement Email,control,0
+0.026967951124643303,0,0,Low Risk,No Action,control,0
+0.03675921709322043,0,0,Low Risk,No Action,control,0
+0.3304161609909285,0,0,Low Risk,No Action,control,0
+0.11032263460150057,0,1,Low Risk,No Action,control,0
+0.24171862932046126,0,0,Low Risk,No Action,control,0
+0.05420266792310354,0,0,Low Risk,No Action,control,0
+0.36238399963833307,0,0,Low Risk,No Action,control,0
+0.2657693705781516,0,0,Low Risk,No Action,control,0
+0.16345374653870504,0,1,Low Risk,No Action,control,0
+0.302210468228029,0,0,Low Risk,No Action,control,0
+0.49746991843222094,1,0,Medium Risk,Send Engagement Email,control,0
+0.05598689723597732,0,0,Low Risk,No Action,control,0
+0.05594378763537228,0,0,Low Risk,No Action,control,0
+0.3210451217416347,0,0,Low Risk,No Action,control,0
+0.7400558438405459,1,1,High Risk,Give Discount,control,0
+0.060219601396319586,0,0,Low Risk,No Action,control,0
+0.019706609828341513,0,0,Low Risk,No Action,control,0
+0.6072659098236413,1,1,Medium Risk,Send Engagement Email,control,0
+0.5865407472748878,1,0,Medium Risk,Send Engagement Email,control,0
+0.02257785961768122,0,0,Low Risk,No Action,control,0
+0.049752035312463284,0,0,Low Risk,No Action,control,0
+0.4262607174704418,1,0,Medium Risk,Send Engagement Email,control,0
+0.6711484322146443,1,0,Medium Risk,Send Engagement Email,control,0
+0.34809477986526804,0,1,Low Risk,No Action,control,0
+0.2801857713427316,0,1,Low Risk,No Action,control,0
+0.4892706521953687,1,1,Medium Risk,Send Engagement Email,control,0
+0.3850580124576087,0,0,Low Risk,No Action,control,0
+0.0676660215843396,0,0,Low Risk,No Action,control,0
+0.06618797446837388,0,0,Low Risk,No Action,control,0
+0.041676351958117135,0,0,Low Risk,No Action,control,0
+0.6967584631075261,1,0,Medium Risk,Send Engagement Email,control,0
+0.28098017661515956,0,0,Low Risk,No Action,control,0
+0.23040019867721867,0,0,Low Risk,No Action,control,0
+0.8286052383828811,1,1,High Risk,Give Discount,control,0
+0.02138855323988289,0,0,Low Risk,No Action,control,0
+0.6932892896681504,1,0,Medium Risk,Send Engagement Email,control,0
+0.3190580109789409,0,0,Low Risk,No Action,control,0
+0.04334959215064723,0,0,Low Risk,No Action,control,0
+0.14166813793081076,0,0,Low Risk,No Action,control,0
+0.6953176852537953,1,0,Medium Risk,Send Engagement Email,control,0
+0.7484217785649137,1,1,High Risk,Give Discount,control,0
+0.7614165254949191,1,1,High Risk,Give Discount,treatment,1
+0.04733847971431495,0,0,Low Risk,No Action,control,0
+0.5281831441912215,1,1,Medium Risk,Send Engagement Email,control,0
+0.282788323930324,0,0,Low Risk,No Action,control,0
+0.5662466433085371,1,0,Medium Risk,Send Engagement Email,control,0
+0.7458702041392181,1,0,High Risk,Give Discount,treatment,0
+0.365706912406707,0,0,Low Risk,No Action,control,0
+0.029290511805775587,0,0,Low Risk,No Action,control,0
+0.4435613817033765,1,0,Medium Risk,Send Engagement Email,control,0
+0.6985091121467313,1,1,Medium Risk,Send Engagement Email,control,0
+0.08346357686406923,0,0,Low Risk,No Action,control,0
+0.29233237186945343,0,0,Low Risk,No Action,control,0
+0.033100601508520434,0,0,Low Risk,No Action,control,0
+0.6026062737892122,1,0,Medium Risk,Send Engagement Email,control,0
+0.6486004716819388,1,1,Medium Risk,Send Engagement Email,control,0
+0.4628601034346895,1,1,Medium Risk,Send Engagement Email,control,0
+0.04989551182185084,0,0,Low Risk,No Action,control,0
+0.6551914237631496,1,1,Medium Risk,Send Engagement Email,control,0
+0.7211906439946304,1,0,High Risk,Give Discount,control,0
+0.6833065304253568,1,1,Medium Risk,Send Engagement Email,control,0
+0.5525150316933053,1,1,Medium Risk,Send Engagement Email,control,0
+0.11495373097171417,0,0,Low Risk,No Action,control,0
+0.26522404018776774,0,1,Low Risk,No Action,control,0
+0.08393817692674034,0,0,Low Risk,No Action,control,0
+0.2796512828451788,0,0,Low Risk,No Action,control,0
+0.5245917235068598,1,0,Medium Risk,Send Engagement Email,control,0
+0.78219290010218,1,1,High Risk,Give Discount,treatment,0
+0.2138612271439724,0,1,Low Risk,No Action,control,0
+0.024119238680458618,0,0,Low Risk,No Action,control,0
+0.6243829675076367,1,1,Medium Risk,Send Engagement Email,control,0
+0.025849390455126926,0,0,Low Risk,No Action,control,0
+0.6841728780811597,1,1,Medium Risk,Send Engagement Email,control,0
+0.5930575685854239,1,1,Medium Risk,Send Engagement Email,control,0
+0.1023704308414726,0,0,Low Risk,No Action,control,0
+0.2122680801263612,0,0,Low Risk,No Action,control,0
+0.1132463200218912,0,0,Low Risk,No Action,control,0
+0.5950707419146761,1,1,Medium Risk,Send Engagement Email,control,0
+0.08798480187807521,0,0,Low Risk,No Action,control,0
+0.8096925227326455,1,1,High Risk,Give Discount,control,0
+0.729513008823078,1,1,High Risk,Give Discount,control,1
+0.583959987324805,1,1,Medium Risk,Send Engagement Email,control,0
+0.5081550776660262,1,1,Medium Risk,Send Engagement Email,control,0
+0.41912787349513897,1,0,Medium Risk,Send Engagement Email,control,0
+0.25883461515168504,0,0,Low Risk,No Action,control,0
+0.5929067179991424,1,1,Medium Risk,Send Engagement Email,control,0
+0.588793363890225,1,1,Medium Risk,Send Engagement Email,control,0
+0.15755327236666275,0,0,Low Risk,No Action,control,0
+0.5191682942118742,1,0,Medium Risk,Send Engagement Email,control,0
+0.05389856384084684,0,0,Low Risk,No Action,control,0
+0.11973232310796914,0,0,Low Risk,No Action,control,0
+0.26000241520852785,0,0,Low Risk,No Action,control,0
+0.027995759161254477,0,0,Low Risk,No Action,control,0
+0.01787035896055088,0,0,Low Risk,No Action,control,0
+0.27380393611946874,0,0,Low Risk,No Action,control,0
+0.5393606381958422,1,1,Medium Risk,Send Engagement Email,control,0
+0.08351049367997641,0,0,Low Risk,No Action,control,0
+0.7175757752857795,1,1,High Risk,Give Discount,control,0
+0.6009509264546032,1,0,Medium Risk,Send Engagement Email,control,0
+0.10185412466139346,0,0,Low Risk,No Action,control,0
+0.3220386593856696,0,0,Low Risk,No Action,control,0
+0.050823873100843776,0,0,Low Risk,No Action,control,0
+0.8246607252336883,1,1,High Risk,Give Discount,treatment,0
+0.266198374595857,0,0,Low Risk,No Action,control,0
+0.629166826530797,1,1,Medium Risk,Send Engagement Email,control,0
+0.3822930229651282,0,0,Low Risk,No Action,control,0
+0.017605315559483536,0,0,Low Risk,No Action,control,0
+0.2826528236677492,0,1,Low Risk,No Action,control,0
+0.07849137642084886,0,0,Low Risk,No Action,control,0
+0.5348690080410929,1,1,Medium Risk,Send Engagement Email,control,0
+0.05217639839470126,0,0,Low Risk,No Action,control,0
+0.45362829436989327,1,0,Medium Risk,Send Engagement Email,control,0
+0.632211879735691,1,0,Medium Risk,Send Engagement Email,control,0
+0.02242949597840242,0,0,Low Risk,No Action,control,0
+0.3307415640178718,0,0,Low Risk,No Action,control,0
+0.3824158021238524,0,0,Low Risk,No Action,control,0
+0.11466713854828794,0,0,Low Risk,No Action,control,0
+0.2980292285298809,0,0,Low Risk,No Action,control,0
+0.7388933829314156,1,1,High Risk,Give Discount,treatment,0
+0.735250762480981,1,0,High Risk,Give Discount,control,1
+0.04606060173510693,0,0,Low Risk,No Action,control,0
+0.4969156686443201,1,1,Medium Risk,Send Engagement Email,control,0
+0.7699991303770403,1,1,High Risk,Give Discount,control,0
+0.21916977184149344,0,0,Low Risk,No Action,control,0
+0.3858142034455774,0,0,Low Risk,No Action,control,0
+0.12771975938596827,0,0,Low Risk,No Action,control,0
+0.39332993357458246,0,1,Low Risk,No Action,control,0
+0.1345497842046095,0,0,Low Risk,No Action,control,0
+0.3170561002463981,0,0,Low Risk,No Action,control,0
+0.2213005133237474,0,0,Low Risk,No Action,control,0
+0.6241553687979288,1,0,Medium Risk,Send Engagement Email,control,0
+0.31228992419837515,0,0,Low Risk,No Action,control,0
+0.7644738388958195,1,1,High Risk,Give Discount,treatment,1
+0.1879499281408284,0,0,Low Risk,No Action,control,0
+0.048763049710949996,0,0,Low Risk,No Action,control,0
+0.18537392806473385,0,0,Low Risk,No Action,control,0
+0.19965395528394855,0,0,Low Risk,No Action,control,0
+0.24442236181147464,0,1,Low Risk,No Action,control,0
+0.5853427192650739,1,1,Medium Risk,Send Engagement Email,control,0
+0.2441297938968082,0,0,Low Risk,No Action,control,0
+0.20662313660366025,0,0,Low Risk,No Action,control,0
+0.017682831637106027,0,0,Low Risk,No Action,control,0
+0.5140211582362795,1,1,Medium Risk,Send Engagement Email,control,0
+0.5078932241967806,1,1,Medium Risk,Send Engagement Email,control,0
+0.4175658184222511,1,1,Medium Risk,Send Engagement Email,control,0
+0.6840815239162089,1,1,Medium Risk,Send Engagement Email,control,0
+0.10739654693985201,0,0,Low Risk,No Action,control,0
+0.160231100870624,0,0,Low Risk,No Action,control,0
+0.139786535866322,0,0,Low Risk,No Action,control,0
+0.6307904164440982,1,1,Medium Risk,Send Engagement Email,control,0
+0.5601700149076325,1,1,Medium Risk,Send Engagement Email,control,0
+0.39132199893164116,0,0,Low Risk,No Action,control,0
+0.02543608825735541,0,0,Low Risk,No Action,control,0
+0.5727846890222081,1,0,Medium Risk,Send Engagement Email,control,0
+0.045936912758154494,0,1,Low Risk,No Action,control,0
+0.363885725240109,0,0,Low Risk,No Action,control,0
+0.09585998150625913,0,0,Low Risk,No Action,control,0
+0.5344432745362041,1,1,Medium Risk,Send Engagement Email,control,0
+0.08437174152392046,0,0,Low Risk,No Action,control,0
+0.23007215871252276,0,0,Low Risk,No Action,control,0
+0.2465232968581099,0,0,Low Risk,No Action,control,0
+0.24323793660050644,0,0,Low Risk,No Action,control,0
+0.030001192701574447,0,0,Low Risk,No Action,control,0
+0.5850901355840723,1,0,Medium Risk,Send Engagement Email,control,0
+0.0439067593259247,0,0,Low Risk,No Action,control,0
+0.6946843972878615,1,0,Medium Risk,Send Engagement Email,control,0
+0.2528210983762298,0,0,Low Risk,No Action,control,0
+0.38004536668825223,0,0,Low Risk,No Action,control,0
+0.29669923666984716,0,1,Low Risk,No Action,control,0
+0.06530664163355349,0,0,Low Risk,No Action,control,0
+0.017815624480123353,0,0,Low Risk,No Action,control,0
+0.6862469464712011,1,1,Medium Risk,Send Engagement Email,control,0
+0.021940900022332486,0,0,Low Risk,No Action,control,0
+0.8123411975470958,1,1,High Risk,Give Discount,control,1
+0.34143077658473336,0,0,Low Risk,No Action,control,0
+0.10976405639206314,0,1,Low Risk,No Action,control,0
+0.5207802387190307,1,0,Medium Risk,Send Engagement Email,control,0
+0.1891089291389664,0,0,Low Risk,No Action,control,0
+0.5352111064162208,1,1,Medium Risk,Send Engagement Email,control,0
+0.21809501665894898,0,0,Low Risk,No Action,control,0
+0.14138894960541734,0,1,Low Risk,No Action,control,0
+0.18193515395295984,0,0,Low Risk,No Action,control,0
+0.11007352184267792,0,0,Low Risk,No Action,control,0
+0.7351895843029764,1,0,High Risk,Give Discount,treatment,0
+0.2735693419326392,0,0,Low Risk,No Action,control,0
+0.2005375394708414,0,0,Low Risk,No Action,control,0
+0.6393742667137531,1,0,Medium Risk,Send Engagement Email,control,0
+0.38876461703972215,0,0,Low Risk,No Action,control,0
+0.3220505111966894,0,1,Low Risk,No Action,control,0
+0.0708973943639755,0,0,Low Risk,No Action,control,0
+0.30879775224656086,0,0,Low Risk,No Action,control,0
+0.6840919642378075,1,1,Medium Risk,Send Engagement Email,control,0
+0.2624661277730587,0,0,Low Risk,No Action,control,0
+0.0752802129282412,0,0,Low Risk,No Action,control,0
+0.7329716820686386,1,0,High Risk,Give Discount,treatment,0
+0.7511999466122133,1,1,High Risk,Give Discount,treatment,1
+0.32034819944506115,0,0,Low Risk,No Action,control,0
+0.6455623013374786,1,1,Medium Risk,Send Engagement Email,control,0
+0.7155765684748178,1,1,High Risk,Give Discount,control,0
+0.015857721294427307,0,0,Low Risk,No Action,control,0
+0.3592239216802375,0,0,Low Risk,No Action,control,0
+0.08277077048773251,0,0,Low Risk,No Action,control,0
+0.0426291502505473,0,0,Low Risk,No Action,control,0
+0.46884473391196535,1,0,Medium Risk,Send Engagement Email,control,0
+0.3198992201088373,0,0,Low Risk,No Action,control,0
+0.4145442465843081,1,1,Medium Risk,Send Engagement Email,control,0
+0.05880942171646059,0,0,Low Risk,No Action,control,0
+0.7868823903724921,1,1,High Risk,Give Discount,treatment,0
+0.6588568553987129,1,0,Medium Risk,Send Engagement Email,control,0
+0.6135071075969171,1,1,Medium Risk,Send Engagement Email,control,0
+0.7758955997544984,1,1,High Risk,Give Discount,control,0
+0.13238533748983827,0,0,Low Risk,No Action,control,0
+0.025981651580453867,0,0,Low Risk,No Action,control,0
+0.6643478385027207,1,1,Medium Risk,Send Engagement Email,control,0
+0.7704112428725781,1,0,High Risk,Give Discount,treatment,0
+0.18331417156693372,0,0,Low Risk,No Action,control,0
+0.5861023957947267,1,0,Medium Risk,Send Engagement Email,control,0
+0.06419035727510067,0,0,Low Risk,No Action,control,0
+0.5200856694169023,1,0,Medium Risk,Send Engagement Email,control,0
+0.19234146289021484,0,0,Low Risk,No Action,control,0
+0.2114837060748084,0,0,Low Risk,No Action,control,0
+0.6014840647884697,1,1,Medium Risk,Send Engagement Email,control,0
+0.4506023231241958,1,0,Medium Risk,Send Engagement Email,control,0
+0.3464108318773731,0,0,Low Risk,No Action,control,0
+0.30119577334489805,0,0,Low Risk,No Action,control,0
+0.3938759997698711,0,0,Low Risk,No Action,control,0
+0.16267498266323746,0,0,Low Risk,No Action,control,0
+0.1822835253771006,0,0,Low Risk,No Action,control,0
+0.1712601081061189,0,0,Low Risk,No Action,control,0
+0.05427254861564453,0,0,Low Risk,No Action,control,0
+0.3059338835891993,0,0,Low Risk,No Action,control,0
+0.02784746979900739,0,0,Low Risk,No Action,control,0
+0.2998978866944179,0,0,Low Risk,No Action,control,0
+0.19942547251683856,0,0,Low Risk,No Action,control,0
+0.7022935113966894,1,1,High Risk,Give Discount,control,0
+0.060846100807425016,0,0,Low Risk,No Action,control,0
+0.15552185082404799,0,0,Low Risk,No Action,control,0
+0.09011661333448216,0,0,Low Risk,No Action,control,0
+0.8147132689001275,1,1,High Risk,Give Discount,control,0
+0.05143761110357498,0,0,Low Risk,No Action,control,0
+0.150475582939392,0,1,Low Risk,No Action,control,0
+0.48101841137341494,1,0,Medium Risk,Send Engagement Email,control,0
+0.740085286620729,1,1,High Risk,Give Discount,treatment,1
+0.12653856410494801,0,0,Low Risk,No Action,control,0
+0.022119500032965148,0,0,Low Risk,No Action,control,0
+0.02712580701047439,0,0,Low Risk,No Action,control,0
+0.4021078221381894,1,0,Medium Risk,Send Engagement Email,control,0
+0.3688286492944874,0,1,Low Risk,No Action,control,0
+0.5945085415000759,1,0,Medium Risk,Send Engagement Email,control,0
+0.33924420794865395,0,0,Low Risk,No Action,control,0
+0.05120493528657924,0,0,Low Risk,No Action,control,0
+0.16473771456893785,0,0,Low Risk,No Action,control,0
+0.6510028065929665,1,1,Medium Risk,Send Engagement Email,control,0
+0.6119408510309077,1,1,Medium Risk,Send Engagement Email,control,0
+0.22688074405293795,0,0,Low Risk,No Action,control,0
+0.11667917223964933,0,0,Low Risk,No Action,control,0
+0.038494042168942685,0,0,Low Risk,No Action,control,0
+0.12685105886360135,0,1,Low Risk,No Action,control,0
+0.71106899428113,1,1,High Risk,Give Discount,treatment,0
+0.1649126227816908,0,0,Low Risk,No Action,control,0
+0.1510737962581528,0,0,Low Risk,No Action,control,0
+0.5810811388224515,1,0,Medium Risk,Send Engagement Email,control,0
+0.458751617315903,1,0,Medium Risk,Send Engagement Email,control,0
+0.49236853860001145,1,0,Medium Risk,Send Engagement Email,control,0
+0.648192378873104,1,1,Medium Risk,Send Engagement Email,control,0
+0.1826606061268964,0,1,Low Risk,No Action,control,0
+0.098646094158837,0,0,Low Risk,No Action,control,0
+0.2826288163952603,0,0,Low Risk,No Action,control,0
+0.04466107962065505,0,0,Low Risk,No Action,control,0
+0.4393248148656361,1,0,Medium Risk,Send Engagement Email,control,0
+0.6892972095535439,1,1,Medium Risk,Send Engagement Email,control,0
+0.29022036906458465,0,0,Low Risk,No Action,control,0
+0.3582419216604111,0,0,Low Risk,No Action,control,0
+0.03458096147498618,0,0,Low Risk,No Action,control,0
+0.021021303457736354,0,0,Low Risk,No Action,control,0
+0.5195160224419054,1,0,Medium Risk,Send Engagement Email,control,0
+0.4336925968569456,1,0,Medium Risk,Send Engagement Email,control,0
+0.361459320319199,0,0,Low Risk,No Action,control,0
+0.061612003376377705,0,0,Low Risk,No Action,control,0
+0.7703969939862596,1,1,High Risk,Give Discount,treatment,0
+0.6079349183247185,1,0,Medium Risk,Send Engagement Email,control,0
+0.581322932204219,1,0,Medium Risk,Send Engagement Email,control,0
+0.044655481687388435,0,0,Low Risk,No Action,control,0
+0.5510704234041998,1,1,Medium Risk,Send Engagement Email,control,0
+0.7068536607373181,1,0,High Risk,Give Discount,control,0
+0.06720122750814271,0,0,Low Risk,No Action,control,0
+0.3018555312840165,0,0,Low Risk,No Action,control,0
+0.387171550093223,0,0,Low Risk,No Action,control,0
+0.7439147078520094,1,0,High Risk,Give Discount,control,0
+0.591145473765999,1,0,Medium Risk,Send Engagement Email,control,0
+0.6218628030457819,1,1,Medium Risk,Send Engagement Email,control,0
+0.7520395836941698,1,1,High Risk,Give Discount,treatment,0
+0.1419367002017682,0,0,Low Risk,No Action,control,0
+0.5292465424409363,1,0,Medium Risk,Send Engagement Email,control,0
+0.5449192765193194,1,1,Medium Risk,Send Engagement Email,control,0
+0.31848603597054637,0,1,Low Risk,No Action,control,0
+0.6019953687104385,1,1,Medium Risk,Send Engagement Email,control,0
+0.019169341905120037,0,0,Low Risk,No Action,control,0
+0.19048912566602375,0,0,Low Risk,No Action,control,0
+0.26408830026887414,0,0,Low Risk,No Action,control,0
+0.018655755148722558,0,0,Low Risk,No Action,control,0
+0.26723746079832045,0,0,Low Risk,No Action,control,0
+0.13089701224504324,0,0,Low Risk,No Action,control,0
+0.48396635444117747,1,0,Medium Risk,Send Engagement Email,control,0
+0.7811828385972963,1,1,High Risk,Give Discount,treatment,1
+0.1360943407311325,0,0,Low Risk,No Action,control,0
+0.10287247918733268,0,0,Low Risk,No Action,control,0
+0.18239272198053957,0,0,Low Risk,No Action,control,0
+0.17276522007351283,0,0,Low Risk,No Action,control,0
+0.6222414404828457,1,1,Medium Risk,Send Engagement Email,control,0
+0.09417881058085903,0,0,Low Risk,No Action,control,0
+0.7058024667052403,1,0,High Risk,Give Discount,treatment,0
+0.07288778654460386,0,0,Low Risk,No Action,control,0
+0.1375771808414259,0,0,Low Risk,No Action,control,0
+0.37952352942499035,0,0,Low Risk,No Action,control,0
+0.7670780684471393,1,1,High Risk,Give Discount,control,1
+0.08661669389452463,0,0,Low Risk,No Action,control,0
+0.0633795028175973,0,0,Low Risk,No Action,control,0
+0.12494497014509816,0,0,Low Risk,No Action,control,0
+0.11333011032129191,0,0,Low Risk,No Action,control,0
+0.2324127000219297,0,0,Low Risk,No Action,control,0
+0.12225169691129537,0,0,Low Risk,No Action,control,0
+0.36571008344814093,0,0,Low Risk,No Action,control,0
+0.021647723918487138,0,0,Low Risk,No Action,control,0
+0.12404754334969643,0,0,Low Risk,No Action,control,0
+0.8133616026912379,1,1,High Risk,Give Discount,control,0
+0.0403924683346329,0,0,Low Risk,No Action,control,0
+0.1289943022063488,0,0,Low Risk,No Action,control,0
+0.5025651038553346,1,0,Medium Risk,Send Engagement Email,control,0
+0.7886729386387661,1,1,High Risk,Give Discount,treatment,1
+0.24080151418350776,0,0,Low Risk,No Action,control,0
+0.27437191866451616,0,0,Low Risk,No Action,control,0
+0.04427258580715167,0,0,Low Risk,No Action,control,0
+0.2584203186034814,0,0,Low Risk,No Action,control,0
+0.6814566638684949,1,1,Medium Risk,Send Engagement Email,control,0
+0.043322091919423565,0,0,Low Risk,No Action,control,0
+0.5649180945360358,1,0,Medium Risk,Send Engagement Email,control,0
+0.12269649488829522,0,0,Low Risk,No Action,control,0
+0.06319043468702665,0,0,Low Risk,No Action,control,0
+0.04701210414950701,0,0,Low Risk,No Action,control,0
+0.3064413748285539,0,0,Low Risk,No Action,control,0
+0.16411157073969473,0,0,Low Risk,No Action,control,0
+0.553123660930747,1,0,Medium Risk,Send Engagement Email,control,0
+0.0827132186775944,0,0,Low Risk,No Action,control,0
+0.0496434771422239,0,0,Low Risk,No Action,control,0
+0.7692298016262876,1,1,High Risk,Give Discount,control,0
+0.048985964736896724,0,0,Low Risk,No Action,control,0
+0.16300486022212154,0,0,Low Risk,No Action,control,0
+0.3263690674739475,0,0,Low Risk,No Action,control,0
+0.01676432871553675,0,0,Low Risk,No Action,control,0
+0.0382202499207045,0,0,Low Risk,No Action,control,0
+0.7477132587407856,1,0,High Risk,Give Discount,control,0
+0.03264916639449088,0,0,Low Risk,No Action,control,0
+0.5375143593538347,1,1,Medium Risk,Send Engagement Email,control,0
+0.21788059814382502,0,0,Low Risk,No Action,control,0
+0.3686857229233664,0,0,Low Risk,No Action,control,0
+0.1994190907723019,0,0,Low Risk,No Action,control,0
+0.12266625756360366,0,0,Low Risk,No Action,control,0
+0.09077851336352277,0,0,Low Risk,No Action,control,0
+0.02705942463077024,0,0,Low Risk,No Action,control,0
